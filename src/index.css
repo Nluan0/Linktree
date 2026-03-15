@@ -1,0 +1,15 @@
+:root {
+  --cor-bg:#222831;
+  --cor-secundaria:#acacac;
+  --cor-terciaria:#fff;
+}
+
+
+body {
+  margin: 0;
+  background-color: var(--cor-bg);
+
+  body {
+    font-family: 'Poppins',  'Montserrat' , sans-serif; 
+}
+}
