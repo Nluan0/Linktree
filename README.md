@@ -1,70 +1,76 @@
-# Getting Started with Create React App
+# 🌐 Linktree — Natã Luan
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> Página pessoal de links desenvolvida em **React**, com design moderno e tema escuro. Reúne em um só lugar todos os meus perfis e redes sociais.
 
-## Available Scripts
+🔗 **Acesse agora:** [linktree-nluan.vercel.app](https://linktree-nluan.vercel.app)
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## ✨ Funcionalidades
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- 🎨 Tema escuro elegante
+- 📱 Layout responsivo
+- 🔗 Links para todas as redes sociais
+- ⚡ Animações suaves nos botões
+- 🚀 Deploy automático via Vercel
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## 🛠️ Tecnologias utilizadas
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- [React](https://reactjs.org/)
+- CSS3 com variáveis customizadas
+- [Vercel](https://vercel.com/) para deploy
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 📁 Estrutura do projeto
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```
+linktree/
+├── public/
+├── src/
+│   ├── assets/
+│   ├── components/
+│   │   ├── header/
+│   │   │   ├── Header.js
+│   │   │   └── Header.css
+│   │   └── RedesSociais/
+│   │       ├── RedesSociais.js
+│   │       └── RedesSociais.css
+│   ├── App.js
+│   └── index.css
+└── package.json
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## 🚀 Como rodar localmente
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+```bash
+# Clone o repositório
+git clone https://github.com/Nluan0/linktree.git
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# Entre na pasta
+cd linktree
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+# Instale as dependências
+npm install
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+# Rode o projeto
+npm start
+```
 
-## Learn More
+Acesse em: `http://localhost:3000`
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 📬 Contato
 
-### Code Splitting
+- Instagram: [@n.__luan](https://www.instagram.com/n.__luan)
+- LinkedIn: [Natã Luan](https://www.linkedin.com/in/nat%C3%A3-luan-rodrigues-dos-santos-072145306/)
+- GitHub: [@Nluan0](https://github.com/Nluan0)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+---
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<p align="center">Feito com 💙 por <strong>Natã Luan</strong></p>
